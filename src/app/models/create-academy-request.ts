@@ -1,0 +1,2 @@
+export interface CreateAcademyRequest {
+}
